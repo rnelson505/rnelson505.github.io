@@ -27,7 +27,7 @@ header a{
     text-decoration: none;
     text-transform: uppercase;
     font-size: 2.5rem;
-    margin-left: 0.4rem;
+    text-align: center;
 
 }
 
@@ -40,7 +40,7 @@ header a:hover {
 header li{
     float:left;
     display:inline;
-    padding:0 0 3rem 5rem;
+    padding:0 0 0 5.4rem;
     margin-top:3.0rem;
     margin-left:auto;
     margin-right: auto;
@@ -87,7 +87,7 @@ header .highlight, header .current a{
     font-size: 1rem;
     letter-spacing: 1px;
     text-shadow: 0px 0px 0.7rem #333;
-    font-weight: 400;
+    font-weight: 100;
 
 }
 
@@ -122,6 +122,7 @@ header .highlight, header .current a{
     color:white;
     letter-spacing: 0.03rem;
     text-align: center;
+    font-size: 0.9rem;
 }
 
 .emcon a{
@@ -188,7 +189,11 @@ h1 {
     background: ;
     margin: auto;
     overflow: hidden;
-    width: 97%
+    width: 97%;
+    font-size: 0.9rem;
+    text-align: center;
+    margin-bottom: 5rem;
+    margin-top: 2rem;
 }
 
 .container4 {
@@ -206,7 +211,7 @@ h1 {
 
 .map1p {
     margin-top: 3rem;
-    font-size:0.8rem;
+    font-size:0.9rem;
     color:#333;
     margin-bottom: 3rem;
     width: 95%;
@@ -222,7 +227,7 @@ h1 {
 
 .map2p {
     margin-top: 3rem;
-    font-size:0.8rem;
+    font-size:0.9rem;
     color:#333;
     margin-bottom: 3rem;
     width: 95%;
@@ -238,7 +243,7 @@ h1 {
 
 .map3p {
     margin-top: 3rem;
-    font-size:0.8rem;
+    font-size:0.9rem;
     color:#333;
     margin-bottom: 3rem;
     width: 95%;
@@ -253,7 +258,7 @@ h1 {
 
 .map4p {
     margin-top: 3rem;
-    font-size:0.8rem;
+    font-size:0.9rem;
     color:#333;
     margin-bottom: 3rem;
     width: 95%;
@@ -321,31 +326,44 @@ h1 {
 
 }
 
-
-
-
-
-
 .container3 h3 {
-    font-size: 20px;
+    font-size: 0.9 rem;
 }
 
+.container3 b {
+    font-size: 0.9rem;
+    text-align: center;
+    line-height: 2rem;
+}
+
+.container3 p {
+    font-size: 0.9rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.container3 ul {
+    font-size: 0.9rem;
+    text-align: left;
+    line-height: 2rem;
+    margin-bottom: 2reml;
+}
 
 .h1res {
-    margin-top:18px;
-    letter-spacing: 1px;
+    margin-top:1.1rem;
+    letter-spacing: 0.1rem;
     font-variant-caps:all-petite-caps;
-    font-size: 32px;
+    font-size: 2rem;
     font-family: Helvetica;
     font-weight: 100;
-    text-align: ;
+    text-align:center;
     color:#333;
 }
 
 .container5 {
-    width: 60%;
-    margin:auto;
-    overflow-x: hidden;
+    margin: auto;
+    overflow: hidden;
+    width: 97%;
 }
 
 
@@ -363,5 +381,4 @@ h1 {
     font-weight: 100;
     margin:auto;
 
-    
 }
