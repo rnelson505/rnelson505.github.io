@@ -507,7 +507,7 @@ hr3 {
 
 /* ---- Mobile ---- */
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 900px) {
 
 body {
     font-family: Helvetica, sans-serif;
