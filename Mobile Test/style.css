@@ -507,7 +507,7 @@ hr3 {
 
 /* ---- Mobile ---- */
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 760px) {
 
 body {
     font-family: Helvetica, sans-serif;
@@ -902,6 +902,35 @@ h1 {
     overflow: hidden;
     width: 97%;
 }
+    
+    .end {
+    letter-spacing: 1px;
+    line-height: 10px;
+    text-shadow: 0px 0px 10px #555;
+    padding-bottom: 60px;
+}
+
+.map1full img {
+    display: block;
+    transition:transform 0.25s ease;
+    width: 100%;
+    margin-top:1%;
+    margin-bottom: 12%;
+}
+
+.map2full img {
+    transition:transform 0.25s ease;
+    width: 100%;
+    margin-top:1%;
+    float:;
+    margin-bottom: 12%;
+}
+
+.back img {
+    width: 7%;
+    margin-top: 1%;
+}
+
 
     
 }
