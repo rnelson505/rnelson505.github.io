@@ -440,7 +440,7 @@ container5 {
 .container3 h3 {
     font-size: 20px;
     margin: 0;
-    padding:0;
+    padding-top:1rem;
 }
 
 .date1 {
