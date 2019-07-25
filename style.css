@@ -114,8 +114,14 @@ header #branding h1{
 }
 
 header nav {
+<<<<<<< HEAD
     float: right;
     margin-right:30px;
+=======
+    float:right;
+    margin-bottom:px;
+    margin-right:60px;
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     letter-spacing: 1px;
 }
 
@@ -514,16 +520,27 @@ body {
 header{
     background:#2A3331;
     color: white;
+<<<<<<< HEAD
     border-bottom:#f6e0b5 0.1rem solid;
+=======
+    border-bottom:#ff4500 0.1rem solid;
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     width: 100%;
     height:3.2rem;
     overflow: hidden;
     position:fixed;
+<<<<<<< HEAD
     box-shadow: 2.5px 2.5px 15px #555;
+=======
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     
 }
 
 header ul{
+<<<<<<< HEAD
+=======
+    background: black;
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     margin: 0;
     padding: 0;
 }
@@ -532,7 +549,11 @@ header a{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
+<<<<<<< HEAD
     font-size:1.08rem;
+=======
+    font-size:100%;
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     text-align: center;
     margin-right: auto;
     margin-left: auto;
@@ -540,7 +561,11 @@ header a{
 }
 
 header a:hover {
+<<<<<<< HEAD
     color: #f6e0b5;
+=======
+    color: #ff4500;
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     font-weight: bold;
 
 }
@@ -549,8 +574,13 @@ header li{
     display:inline;
     margin-top:1rem;
     padding-right: 1px;
+<<<<<<< HEAD
     
     }
+=======
+    overflow:
+}
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
 
 header #branding h1{
     font-size: 0px;
@@ -562,16 +592,26 @@ header #branding h1{
 }
 
 header nav {
+<<<<<<< HEAD
     float:right;
     margin-right:1rem;
     margin-left: auto;
     letter-spacing: 0rem;
+=======
+    margin-right:2%;
+    letter-spacing: 0.1rem;
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     overflow: hidden;
 }
 
 header .highlight, header .current a{
+<<<<<<< HEAD
     color:#f6e0b5;
     font-weight: ;
+=======
+    color:#ff4500;
+    font-weight: bold;
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     
 }
 
@@ -618,11 +658,19 @@ header .highlight, header .current a{
 .box {
     background: #2A3331;
     padding: 0.5rem;
+<<<<<<< HEAD
     border-bottom:#a2bddb 0.1rem solid;
 }
 
 .red {
     color: #f6e0b5;
+=======
+    border-bottom:#ff4500 0.1rem solid;
+}
+
+.red {
+    color: #ff4500;
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     font-weight:600;
 }
 
@@ -713,7 +761,11 @@ h1 {
 
 .container4 {
     background-color: #2A3331;
+<<<<<<< HEAD
     border-top:#f6e0b5 0.1rem solid;
+=======
+    border-top:#ff4500 0.1rem solid;
+>>>>>>> eee0ca06a9a862fc368e743351f1bcb72cb9a8e4
     margin: auto;
     overflow: hidden;
     width: 100%;
