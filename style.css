@@ -252,7 +252,7 @@ eader .highlight, header .current a{
     background: #f6e0b5;
 }
 
-.btn3 {
+.btn4 {
     padding: .5rem 2rem;
     border: 1px #ccc solid;
     display: inline-block;
@@ -264,10 +264,14 @@ eader .highlight, header .current a{
     margin-bottom: 100px;
     background-color: white;
     font-size: 18px;  
-    margin: 2rem 1rem 2rem 1rem;
+    margin-right: 5rem;
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+    margin-left: 0rem;
+    float: left;
 }
 
-.btn2:hover {
+.btn4:hover {
     background: #f6e0b5;
 }
 
