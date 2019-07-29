@@ -371,11 +371,6 @@ footer {
 
 }
 
-.map1 img:hover {
-    transform:scale(1.1);
-    overflow: hidden;
-}
-
 .map1p {
     margin-right: 50%;
     margin-top: 7%;
@@ -443,10 +438,6 @@ hr5 {
     object-fit: scale-down;
 }
 
-.map2 img:hover {
-    transform:scale(1.1);
-
-}
 
 .map2p {
     margin-right: %;
@@ -466,10 +457,6 @@ hr5 {
     object-fit: scale-down;
 }
 
-.map3 img:hover {
-    transform:scale(1.1);
-
-}
 
 .map3p {
     margin-right: %;
@@ -489,9 +476,7 @@ hr5 {
     object-fit: scale-down;
 }
 
-.map4 img:hover {
-    transform:scale(1.1);
-}
+
 
 .map4p {
     margin-top: 0%;
@@ -520,28 +505,32 @@ hr5 {
     text-decoration:none;
     border-bottom: solid 1px;
     color:#6699CC;
-    font-size: 14px
+    font-variant-caps: all-small-caps;
+    font-size: 22px
 }
 
 .map3p a {
     text-decoration:none;
     border-bottom: solid 1px;
     color:#6699CC;
-    font-size: 14px
+    font-variant-caps: all-small-caps;
+    font-size: 22px
 }
 
 .map2p a {
     text-decoration:none;
     border-bottom: solid 1px;
     color:#6699CC;
-    font-size: 14px
+    font-variant-caps: all-small-caps;
+    font-size: 22px
 }
 
 .map1p a {
     text-decoration:none;
     border-bottom: solid 1px;
     color:#6699CC;
-    font-size: 14px
+    font-variant-caps: all-small-caps;
+    font-size: 22px
 }
 
 .container2 h3 {
@@ -585,11 +574,12 @@ container5 {
 
 #Resume {
     margin-top:18px;
-    letter-spacing: 0px;
+    letter-spacing: 1px;
     font-variant-caps:all-petite-caps;
     font-size: 32px;
     font-family: 'Nanum Gothic', sans-serif;
-    font-weight:0;
+    font-weight: 100;
+    text-align: ;
     color:#333;
 }
 
@@ -1004,9 +994,11 @@ hr3 {
 .container2 h1 {
     margin-top:.5rem;
     letter-spacing: 0px;
-    font-size: 84px;
+    font-variant-caps:all-petite-caps;
+    font-size: 1.3rem;
     font-family: Nanum Gothic, sans-serif;
-    font-weight:0;
+    font-weight: 100;
+    text-align:center;
     color:#333;
 }
 
