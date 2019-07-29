@@ -222,10 +222,10 @@ eader .highlight, header .current a{
     text-decoration: none;
     color: #333;
     transition: background 500ms ease;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
     background-color: white;
     font-size: 18px;  
-    margin: 2rem 1rem 6rem 1rem;
+    margin: 2rem 1rem 5rem 1rem;
 }
 
 .btn:hover {
@@ -306,6 +306,15 @@ eader .highlight, header .current a{
     text-transform: none;
     
 } 
+
+
+.credit {
+    margin: 0;
+    font-size: 8px;
+    color:lightgray;
+    text-align: left;
+    margin-left: 5px;
+}
 
 .grad img {
     width: 9%;
