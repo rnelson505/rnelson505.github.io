@@ -98,7 +98,6 @@ h1, h2, h3 {
     margin-top: 30px;
     overflow:hidden;
     background: white;
-
 }
 
 
@@ -364,7 +363,7 @@ footer {
 .container4 {
     background-color: #2A3331;
     border-top:#f6e0b5 2px solid;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
     padding-top: 0px;
     overflow: hidden;
 
@@ -652,7 +651,7 @@ container5 {
 }
 
 .made {
-    margin: 0 0 0px 1.2rem;
+    margin: 0 0 0px .6rem;
     color: #999;
     font-size: .64rem;
     float:left;
