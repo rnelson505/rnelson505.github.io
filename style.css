@@ -631,14 +631,27 @@ container5 {
     transition:transform 0.25s ease;
     width: 100%;
     margin-top:1%;
-    float:right
+    float:right;
+    box-shadow: 1px 1px 20px #999;
+
 }
 
 .map2full img {
     transition:transform 0.25s ease;
     width: 100%;
     margin-top:1%;
-    float:right
+    float:right;
+    box-shadow: 1px 1px 20px #999;
+
+}
+
+.map2full h3 {
+    float: left;
+    display: inline;
+    font-family: Nanum Gothic, sans-serif;
+    margin-top: 100px;
+    font-size: 20px;
+
 }
 
 .back img {
@@ -656,7 +669,6 @@ container5 {
     font-size: .64rem;
     float:left;
 }
-
 
 
 /* ---- Mobile ---- */
@@ -1102,6 +1114,8 @@ padding-bottom: 60px;
     width: 100%;
     margin-top:1%;
     margin-bottom: 12%;
+        box-shadow: 1px 1px 20px #999;
+
 }
 
 .map2full img {
